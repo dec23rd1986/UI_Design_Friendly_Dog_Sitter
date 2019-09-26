@@ -126,7 +126,7 @@ h2{
 
 .contact-btn{
     background: #3DA6AA;
-    width: calc(100% - 1em);
+    width: calc(100% - 4em);
     display: block;
     color: #fff;
     border-radius: 25px;
